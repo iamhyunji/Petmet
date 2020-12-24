@@ -54,8 +54,8 @@ window.addEventListener("load", function(){
                 ctx.fillRect(x, y, width, height);
 
                 ctx.fillStyle = 'black';
-                ctx.font = '20px arial';
-                ctx.fillText(m.name, x, 390);
+                ctx.font = '15px arial';
+                ctx.fillText(m.name, x+10, 390);
             }
         }
 
@@ -71,8 +71,8 @@ window.addEventListener("load", function(){
                 ctx.fillRect(x, y, width, height);
 
                 ctx.fillStyle = 'black';
-                ctx.font = '20px arial';
-                ctx.fillText(r.memberName, x, 390);
+                ctx.font = '15px arial';
+                ctx.fillText(r.memberName, x+10, 390);
             }
         }
     }
