@@ -119,13 +119,13 @@
                             </tbody>
                         </table>
 
-                    </form>
                 </section>
                 <section class="buttons">
                     <h1 class="d-none">버튼</h1>
                     <input class="button" type="submit" value="등록" />
                     <a class="button cancle-button" href="list">취소</a>
                 </section>
+                    </form>
             </main>
         </div>
     </div>
