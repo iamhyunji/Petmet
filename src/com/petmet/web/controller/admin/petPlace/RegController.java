@@ -131,7 +131,7 @@ public class RegController extends HttpServlet {
 //			Review r = new Review(writerId, petPlaceId, rating, content, files);
 //			service2.insert(r);
 //		}
-
+		System.out.println("아아");
 		response.sendRedirect("list");
 
 	}
