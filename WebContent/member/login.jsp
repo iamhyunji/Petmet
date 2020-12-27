@@ -16,7 +16,9 @@
     <link href="../css/content-layout.css" type="text/css" rel="stylesheet">
     <link href="../css/admin/components/table/list.css" type="text/css" rel="stylesheet">
     <link href="../css/admin/components/form/default.css" type="text/css" rel="stylesheet">
+    <script src="../js/member/login/kakao.js"></script>
     <script src="https://kit.fontawesome.com/b280fc7aa7.js" crossorigin="anonymous"></script>
+     <script src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
   
 </head>
 
@@ -49,6 +51,8 @@
                                 <input type="password" name="pwd" placeholder="비밀번호" />
                             </li>
                         </ul>
+                        
+                        
 
                        
                         <input type="hidden" name="return-url" value="${returnUrl}" />
@@ -56,6 +60,9 @@
                        
                         
                     </fieldset>
+                    <div class="kakao-login">
+                        	카카오 로그인박스
+                     </div>
                 </form>
 
             </div>
