@@ -56,8 +56,6 @@ public class RegController extends HttpServlet {
 		String content = request.getParameter("content");
 		int pub = Integer.parseInt(request.getParameter("pub"));
 
-		categoryId = (int) (Math.random() * 11 + 1);
-
 		PetPlace p = new PetPlace(categoryId, name, address, homepage, phone, location, content, pub);
 
 		// 파일등록
@@ -131,7 +129,8 @@ public class RegController extends HttpServlet {
 //			Review r = new Review(writerId, petPlaceId, rating, content, files);
 //			service2.insert(r);
 //		}
-
+		
+		System.out.println("아아");
 		response.sendRedirect("list");
 
 	}
