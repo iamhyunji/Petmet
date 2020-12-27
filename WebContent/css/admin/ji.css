@@ -1,10 +1,48 @@
-html{
-	position:relative;
+html {
+	position: relative;
+}
+.header,
+.body{
+	margin-top: 30px;
 }
 
-.buttonload{
-	position:absolute;	
-	left: 200px;
-	bottom: 700px;
-	
+.main1 .container{
+	position:relative;
+}
+.buttonload1 {
+	position: absolute;
+	top: 180px;
+	left: 150px;
+	background-color: #ccc; /* Green background */
+	border: none; /* Remove borders */
+	color: white; /* White text */
+	padding: 12px 16px; /* Some padding */
+	font-size: 16px; /* Set a font size */
+}
+.buttonload2 {
+	position: absolute;
+	top: 180px;
+	left: 300px;
+	background-color: #ccc; /* Green background */
+	border: none; /* Remove borders */
+	color: white; /* White text */
+	padding: 12px 16px; /* Some padding */
+	font-size: 16px; /* Set a font size */
+}
+.buttonload1:hover,
+.buttonload2:hover{
+	background-color: #e7708d;
+}
+
+.main2 .title {
+	font-size: 20px;
+	font-weight: 600;
+	text-indent: 10px;
+}
+
+.main2 .list-table {
+	width: 99%;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
 }
