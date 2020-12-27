@@ -1,4 +1,5 @@
-window.addEventListener("load", function () {
+window.addEventListener("load", function() {
+
 
     var viewImg = document.querySelector(".main1 .container");
     var backC = document.querySelector(".main1");

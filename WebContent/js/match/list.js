@@ -1,4 +1,5 @@
 window.addEventListener("load", function() {
+	
     var tbody = document.querySelector("tbody");
     var detailM;
     var even = "even";
@@ -33,7 +34,6 @@ window.addEventListener("load", function() {
         for( var i=0; i<detailM.length; i++){
            
             if(e.target.innerText == detailM[i].name){
-                e.preventDefault();
                 var dm = detailM[i];
                 
                 var addTr = '<tr class="detail-table"> \

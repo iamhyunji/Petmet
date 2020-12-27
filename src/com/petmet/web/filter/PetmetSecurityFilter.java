@@ -15,7 +15,7 @@ import javax.servlet.http.HttpSession;
 @WebFilter("/*")
 public class PetmetSecurityFilter implements Filter {
 
-	private final static String[] mAuthURLs = { "/match" };
+	private final static String[] mAuthURLs = {"/match"};
 
 	private final static String[] adminAuthURLs = { "/admin/index", "/admin/member", "/admin/feed", "/admin/community",
 			"/admin/petplace" };
@@ -47,16 +47,18 @@ public class PetmetSecurityFilter implements Filter {
 
 		else {
 			for (String authUrl : mAuthURLs)
-				if (uri.contains(authUrl)) {
+				if (uri.contains(authUrl) && !uri.contains("js")) {
 					requireAuth = true;
 					break;
 				}
 
 			
 			if (requireAuth && session.getAttribute("mid") == null) {
+				
 				response.sendRedirect("/error403?return-url=" + uri);
 				return;
 			}
+			
 		}
 
 		chain.doFilter(request, response);
