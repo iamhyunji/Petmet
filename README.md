@@ -1,6 +1,6 @@
 # PetMet
 <h3>개념적 모델링</h3>
-![admin_index](https://user-images.githubusercontent.com/46362346/104829346-33209e80-58b6-11eb-9199-1deedfff3b97.png)
+![image](https://user-images.githubusercontent.com/46362346/104829346-33209e80-58b6-11eb-9199-1deedfff3b97.png)
 <h3>논리적 모델링</h3>
 ![image](https://user-images.githubusercontent.com/46362346/104829347-3a47ac80-58b6-11eb-8cb4-ce0631a26bb3.png)
 <h3>login</h3>
