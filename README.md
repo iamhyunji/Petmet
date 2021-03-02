@@ -11,7 +11,9 @@
 
 
 ## 💼설치
-- git clone : https://github.com/SunghyunKim9744/PetmetPrj.git
+```
+> git clone https://github.com/SunghyunKim9744/PetmetPrj.git
+```
 
 
 ## 🛠 사용 기술
