@@ -1,5 +1,5 @@
 # PetMet
-<img align="center" style="margin:0 auto;width:40px" src="WebContent/images/logo.png"/>
+<img align="center" style="width:400px;margin:0 auto;" src="WebContent/images/logo.png"/>
 
 ## 📑 프로젝트 소개
 - [x] 사랑하는 내 반려견의 사회성을 길러줄 수 있는 사이트
