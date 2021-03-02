@@ -21,7 +21,7 @@
 - [x] 2020.11.02 ~ 2020.12.24 (약 8주)
 
 
-## 💼설치
+## 💼 설치
 ```
 > git clone https://github.com/SunghyunKim9744/PetmetPrj.git
 ```
