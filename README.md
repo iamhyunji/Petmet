@@ -5,8 +5,8 @@
 
 ## 📑 프로젝트 소개
 - [x] 사랑하는 내 반려견의 사회성을 길러줄 수 있는 반려견 매칭 사이트
-- [x] 반려견 1500만 시대지만 환경 미비로 반려견들의 사회성 부족, 그리고 그로 인해 발생하는 문제들 해결에 초점
-- [x] 반려견 매칭과 더불어 커뮤니티, 장소 정보 제공 기능
+- [x] 반려견 1500만 시대지만 환경 미비로 반려견들의 사회성 부족, 또 그로 인해 발생하는 문제들 해결에 초점
+- [x] 반려견 매칭과 더불어 커뮤니티, 반려견들과 함께 갈 수 있는 장소 정보 제공을 목표
 - [x] JDBC 외에 라이브러리 및 프레임워크 사용하지 않고, 모든 기능 구현에 노력
 
 
@@ -52,15 +52,15 @@
 
 ✅ [6] 신고된 게시글 관리 : 카테고리 등록/수정/삭제 구현
 
-![category](WebContent/images/readme/.gif)
+![reported-board](WebContent/images/readme/reported-board.gif)
 
 ✅ [7] 댓글 관리 : 카테고리 등록/수정/삭제 구현
 
-![category](WebContent/images/readme/.gif)
+![comment](WebContent/images/readme/.gif)
 
 ✅ [8] 신고된 댓글 관리 : 카테고리 등록/수정/삭제 구현
 
-![category](WebContent/images/readme/.gif)
+![reported-comment](WebContent/images/readme/.gif)
 
 
 
