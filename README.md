@@ -77,7 +77,7 @@
 
 
 ## 기여
-- [x] Front-end
+- [x] Front End
 	* 카테고리 관리
 		- HTML/CSS
 		- Javascript : 행 추가/일괄 삭제/일괄 수정
@@ -93,7 +93,7 @@
 	* 신고된 댓글 관리
 		- HTML/CSS
 		- Javascript : 일괄 삭제/일괄 수정
-- [x] Back-end
+- [x] Back End
 	* 카테고리 관리
 		- Table, Dao, Service, Controller : 삽입, 삭제, 수정
 	* 게시글 관리
