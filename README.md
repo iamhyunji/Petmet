@@ -1,6 +1,6 @@
 # PetMet
 <p align="center">
-<img width="400px" src="WebContent/images/logo.png"/>
+<img width="450px" height="400px" src="WebContent/images/logo.png"/>
 </p>
 
 ## 📑 프로젝트 소개
@@ -12,8 +12,8 @@
 
 ## 🛠 사용 기술
 
-| Front-End      | Back-End       | DataBase | Server   | Tool                                       |
-| :------------: | :------------: | :------: | :------: | :----------------------------------------: |
+| Front-End      | Back-End       | DataBase | Tool                                       |
+| :------------: | :------------: | :------: | :----------------------------------------: |
 | HTML5<br>CSS3<br>Javascript(ES6) | Servlet & JSP | Oracle    | Git |
 
 
@@ -40,27 +40,27 @@
 
 ✅ [3] 카테고리 관리 : 카테고리 등록/수정/삭제 구현
 
-![category](https://github.com/cyon13/AllBareun/raw/master/src/main/resources/static/images/video/findId.gif)](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/findId.gif)
+![category](WebContent/images/readme/category.gif)
 
-✅ [4] 게시글 관리 : 카테고리 등록/수정/삭제 구현
+✅ [4] 게시글 관리 : 게시글 목록 조회, 페이저, 게시판 수정 및 게시글 삭제, 검색 구현
 
-![category](https://github.com/cyon13/AllBareun/raw/master/src/main/resources/static/images/video/findId.gif)](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/findId.gif)
+![board](WebContent/images/readme/board.gif)
 
-✅ [5] 게시글 디테일 : 카테고리 등록/수정/삭제 구현
+✅ [5] 게시글 디테일 : 게시글 디테일, 게시판 수정, 해당 게시글 삭제 구현
 
-![category](https://github.com/cyon13/AllBareun/raw/master/src/main/resources/static/images/video/findId.gif)](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/findId.gif)
+![board-detail](WebContent/images/readme/board-detail.gif)
 
 ✅ [6] 신고된 게시글 관리 : 카테고리 등록/수정/삭제 구현
 
-![category](https://github.com/cyon13/AllBareun/raw/master/src/main/resources/static/images/video/findId.gif)](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/findId.gif)
+![category](WebContent/images/readme/.gif)
 
 ✅ [7] 댓글 관리 : 카테고리 등록/수정/삭제 구현
 
-![category](https://github.com/cyon13/AllBareun/raw/master/src/main/resources/static/images/video/findId.gif)](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/findId.gif)
+![category](WebContent/images/readme/.gif)
 
 ✅ [8] 신고된 댓글 관리 : 카테고리 등록/수정/삭제 구현
 
-![category](https://github.com/cyon13/AllBareun/raw/master/src/main/resources/static/images/video/findId.gif)](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/findId.gif)
+![category](WebContent/images/readme/.gif)
 
 
 
