@@ -1,6 +1,5 @@
 # PetMet
 
-
 ## 📑 프로젝트 소개
 - [x] 새해맞이 목표 달성 사이트
 
@@ -13,7 +12,7 @@
 
 | Front-End      | Back-End       | DataBase | Tool                                       |
 | :------------: | :------------: | :------: | :----------------------------------------: |
-| HTML5\CSS3\ES6 | Mybatis\Spring | MySQL    | Git\Trello\Kakao Oven\Photoshop\SpringBoot |
+| HTML5<br>CSS3<br>ES6 | Mybatis<br>Spring | MySQL    | Git<br>Trello<br>Kakao Oven<br>Photoshop<br>SpringBoot |
 
 
 ## 📅 개발 기간
