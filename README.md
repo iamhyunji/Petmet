@@ -72,8 +72,8 @@
 | ![이지선](https://avatars.githubusercontent.com/u/46362346?s=400&u=d47a0743bd454f2ca5af156640e3ab38afa17585&v=4) | ![김건영](https://avatars.githubusercontent.com/u/57395045?s=400&v=4) | ![김성현](https://avatars.githubusercontent.com/u/70308853?s=400&v=4) |
 | :---------------: | :---------------: | :---------------: |
 | [이지선](https://github.com/jsl0319) | [김건영](https://github.com/aengun) | [김성현](https://github.com/SunghyunKim9744)|
-| ![김지훈](https://avatars.githubusercontent.com/u/73972987?s=400&v=4) | ![김현지](https://avatars.githubusercontent.com/u/55617281?s=400&u=45166515684d080b5782457babcc6920191823ee&v=4) | ![이민영](https://avatars.githubusercontent.com/u/67457956?s=400&u=09eff39e888312529b4db01ed16ba04ab4418522&v=4) |
-| [김지훈](https://github.com/recordtve)| [김현지](https://github.com/iamhyunji) | [이민영](https://github.com/min-96)|
+| ![김지훈](https://avatars.githubusercontent.com/u/73972987?s=400&v=4) | ![김현지](https://avatars.githubusercontent.com/u/55617281?s=400&u=45166515684d080b5782457babcc6920191823ee&v=4) | ![김민영](https://avatars.githubusercontent.com/u/67457956?s=400&u=09eff39e888312529b4db01ed16ba04ab4418522&v=4) |
+| [김지훈](https://github.com/recordtve)| [김현지](https://github.com/iamhyunji) | [김민영](https://github.com/min-96)|
 
 
 ## 기여
