@@ -13,7 +13,7 @@ import com.petmet.web.service.AdminService;
 
 @WebServlet("/admin/login")
 public class LoginController extends HttpServlet{
-	
+	// id : admin, pw : 1234
 	private AdminService adminService;
 	
 	public LoginController() {
