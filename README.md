@@ -1,6 +1,6 @@
 # PetMet
 <p align="center">
-<img width="450px" height="400px" src="WebContent/images/logo.png"/>
+<img width="400px" height="350px" src="WebContent/images/logo.png"/>
 </p>
 
 ## 📑 프로젝트 소개
