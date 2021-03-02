@@ -10,6 +10,10 @@
 - [x] JDBC 외에 라이브러리 및 프레임워크 사용하지 않고, 모든 기능 구현에 노력
 
 
+## 💼설치
+- git clone : https://github.com/SunghyunKim9744/PetmetPrj.git
+
+
 ## 🛠 사용 기술
 
 | Front-End      | Back-End       | DataBase | Tool                                       |
@@ -50,17 +54,17 @@
 
 ![board-detail](WebContent/images/readme/board-detail.gif)
 
-✅ [6] 신고된 게시글 관리 : 카테고리 등록/수정/삭제 구현
+✅ [6] 신고된 게시글 관리 : 신고된 게시글 목록 조회, 페이저, 신고 게시글 삭제, 검색 구현
 
 ![reported-board](WebContent/images/readme/reported-board.gif)
 
-✅ [7] 댓글 관리 : 카테고리 등록/수정/삭제 구현
+✅ [7] 댓글 관리 : 댓글 목록 조회, 페이저, 댓글 삭제, 댓글 디테일, 검색 구현
 
-![comment](WebContent/images/readme/.gif)
+![comment](WebContent/images/readme/comment.gif)
 
-✅ [8] 신고된 댓글 관리 : 카테고리 등록/수정/삭제 구현
+✅ [8] 신고된 댓글 관리 : 신고된 댓글 목록 조회, 페이저, 신고 댓글 삭제, 디테일, 검색 구현
 
-![reported-comment](WebContent/images/readme/.gif)
+![reported-comment](WebContent/images/readme/reported-comment.gif)
 
 
 
@@ -72,17 +76,27 @@
 | [김지훈](https://github.com/recordtve)| [김현지](https://github.com/iamhyunji) | [이민영](https://github.com/min-96)|
 
 
-## 구현
-  * [1] 메인화면
+## 기여
+- [x] Front-end
+	* 카테고리 관리
+	* 게시글 관리
+	* 신고된 게시글 관리
+	* 댓글 관리
+	* 신고된 댓글 관리
+- [x] Back-end
+	* 카테고리 관리
+	* 게시글 관리
+	* 신고된 게시글 관리
+	* 댓글 관리
+	* 신고된 댓글 관리
 
 
 ## 어려웠던 점
-  - [x] JAVA를 처음 배우다 보니 언어에 익숙지 않았음
+- [x] 학습하면서 프로젝트 진행을 하여 코드의 집중화에 어려움이 있었음
+- [x] 처음 웹을 접하니 최대한 모든 기능을 직접 구현하는게 어려웠음
 
 
 ## 느낀점
-  - [x] JAVA라는 언어와 객체지향, 캡슐화에 대해 이해할 수 있는 프로젝트였음
-
-  
-## 💼Download
-- git clone : https://github.com/SunghyunKim9744/PetmetPrj.git
+- [x] 팀프로젝트를 진행하며, 협업도구의 중요성을 깨달았음
+- [x] 학습에 의의를 두어 관리인 페이지에만 집중했는데, 사용자 페이지도 보완하고 싶음
+- [x] CRUD 구현 외에 다양한 기능들을 구현해보고 싶음

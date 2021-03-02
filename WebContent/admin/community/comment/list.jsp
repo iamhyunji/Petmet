@@ -116,11 +116,11 @@
 	                        <thead>
 	                            <tr>
 	                                <td>번호</td>
-	                                <td>작성자</td>
-	                                <td>내용</td>
-	                                <td>작성일</td>
 	                                <td>게시판</td>
-	                                <td>게시글 제목</td>
+	                                <td>게시글</td>
+	                                <td>작성자</td>
+	                                <td>댓글</td>
+	                                <td>등록일</td>
 	                                <td>삭제</td>
 	                            </tr>
 	                        </thead>
