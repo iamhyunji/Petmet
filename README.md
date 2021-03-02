@@ -79,21 +79,37 @@
 ## 기여
 - [x] Front-end
 	* 카테고리 관리
+		- HTML/CSS
+		- Javascript : 행 추가/일괄 삭제/일괄 수정
 	* 게시글 관리
+		- HTML/CSS
+		- Javascript : 일괄 삭제/일괄 수정
 	* 신고된 게시글 관리
+		- HTML/CSS
+		- Javascript : 일괄 삭제/일괄 수정
 	* 댓글 관리
+		- HTML/CSS
+		- Javascript : 일괄 삭제/일괄 수정
 	* 신고된 댓글 관리
+		- HTML/CSS
+		- Javascript : 일괄 삭제/일괄 수정
 - [x] Back-end
 	* 카테고리 관리
+		- Table, Dao, Service, Controller : 삽입, 삭제, 수정
 	* 게시글 관리
+		- Table, Dao, Service, Controller : 삭제, 수정
 	* 신고된 게시글 관리
+		- Table, Dao, Service, Controller : 삭제, 수정
 	* 댓글 관리
+		- Table, Dao, Service, Controller : 삭제, 수정
 	* 신고된 댓글 관리
+		- Table, Dao, Service, Controller : 삭제, 수정
 
 
 ## 어려웠던 점
 - [x] 학습하면서 프로젝트 진행을 하여 코드의 집중화에 어려움이 있었음
 - [x] 처음 웹을 접하니 최대한 모든 기능을 직접 구현하는게 어려웠음
+- [x] 테이블 정규화
 
 
 ## 느낀점
